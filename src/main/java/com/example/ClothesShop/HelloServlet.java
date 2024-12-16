@@ -1,4 +1,4 @@
-package com.example.duanwebwithkhanhthe;
+package com.example.ClothesShop;
 
 import java.io.*;
 import javax.servlet.http.*;
